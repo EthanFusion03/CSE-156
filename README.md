@@ -1,3 +1,3 @@
 # CSE-156
-
-### Use python main.py in command line to run my code
+### PA2
+Use python main.py in command line to run my code
